@@ -6,3 +6,4 @@
 5. factorial using recursion
 6. linear search
 7. fibonacci using recursion
+8. menu based number property
