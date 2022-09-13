@@ -5,3 +5,4 @@
 4. swapping two numbers
 5. factorial using recursion
 6. linear search
+7. fibonacci using recursion
