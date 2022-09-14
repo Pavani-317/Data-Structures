@@ -8,3 +8,4 @@
 7. Binary search
 8. binary tree transerval
 9. linked list
+10.odd or even numbers in the given list
