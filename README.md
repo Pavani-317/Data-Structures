@@ -11,3 +11,4 @@
 10. odd or even numbers in the given list
 11. factorial without using recursion
 12. implementation of stack
+13. insertion sort
