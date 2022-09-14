@@ -12,3 +12,5 @@
 11. factorial without using recursion
 12. implementation of stack
 13. insertion sort
+14. merge sort
+15. quick sort
