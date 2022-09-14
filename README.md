@@ -1,5 +1,5 @@
 # Data-Structures
-1. Matrix addition
+1. Matrix multiplication
 2. student mark sheet generation
 3. inventory maintenance
 4. swapping two numbers
