@@ -1,5 +1,5 @@
 # Data-Structures
-1. Matrix Multiplication
+1. Matrix addition
 2. student mark sheet generation
 3. inventory maintenance
 4. swapping two numbers
@@ -9,3 +9,6 @@
 8. menu based number property
 9. array deletion
 10. array insertion
+11. Binary search
+12. binary tree transerval
+13. linked list
