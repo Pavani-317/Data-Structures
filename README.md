@@ -7,3 +7,4 @@
 6. linear search
 7. fibonacci using recursion
 8. menu based number property
+9. array deletion
