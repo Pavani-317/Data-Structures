@@ -17,3 +17,4 @@
 16. linear probing
 17. queue operation
 18. heap sort
+19. deapth first search
