@@ -20,3 +20,4 @@
 19. deapth first search
 20. breadth first search
 21. prims algorithm
+22. kruskals algorithm
