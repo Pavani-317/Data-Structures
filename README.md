@@ -22,3 +22,4 @@
 21. prims algorithm
 22. kruskals algorithm
 23. dijkstras algorithm
+24. fibonacci without using recursion
