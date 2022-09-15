@@ -14,3 +14,4 @@
 13. insertion sort
 14. merge sort
 15. quick sort
+16. linear probing
