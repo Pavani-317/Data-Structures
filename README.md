@@ -19,3 +19,4 @@
 18. heap sort
 19. deapth first search
 20. breadth first search
+21. prims algorithm
