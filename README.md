@@ -15,3 +15,5 @@
 14. merge sort
 15. quick sort
 16. linear probing
+17. queue operation
+18. heap sort
