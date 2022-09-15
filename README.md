@@ -23,3 +23,6 @@
 22. kruskals algorithm
 23. dijkstras algorithm
 24. fibonacci without using recursion
+25. operations in stack
+26. array deletion at end
+27. array insertion at end
